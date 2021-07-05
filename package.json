@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Leslie-Chuan/canvas-merge-png/issues"
   },
-  "homepage": "https://github.com/Leslie-Chuan/canvas-merge-png#readme"
+  "homepage": "https://github.com/Leslie-Chuan/canvas-merge-png#readme",
+  "dependencies": {
+    "common-bin": "^2.9.0",
+    "ora": "^5.4.1"
+  }
 }
