@@ -4,7 +4,11 @@
   "description": "Multiple pictures into one",
   "main": "index.js",
   "scripts": {
-    "test": "merge-test"
+    "test": "merge-test",
+    "merge": "bin/merge.js"
+  },
+  "bin": {
+    "merge": "bin/merge.js"
   },
   "repository": {
     "type": "git",
